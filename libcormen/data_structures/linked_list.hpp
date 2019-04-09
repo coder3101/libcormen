@@ -45,7 +45,6 @@ struct linked_list {
     else
       head = x->next;
     if (x->next != nullptr) x->next->prev = x->prev;
-    delete x;
   }
   node<T> *search(T key) {
     auto iter = head;
