@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/linked_list.dir/tests/data_structures/linked_list.cc.o -c /home/ashar/libcormen/tests/data_structures/linked_list.cc",
+  "file": "/home/ashar/libcormen/tests/data_structures/linked_list.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/stack_queue.dir/tests/data_structures/stack_queue.cc.o -c /home/ashar/libcormen/tests/data_structures/stack_queue.cc",
+  "file": "/home/ashar/libcormen/tests/data_structures/stack_queue.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/merge_sort_test.dir/tests/foundations/merge_sort_test.cc.o -c /home/ashar/libcormen/tests/foundations/merge_sort_test.cc",
+  "file": "/home/ashar/libcormen/tests/foundations/merge_sort_test.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/count_sort.dir/tests/sorting/countingsort_test.cc.o -c /home/ashar/libcormen/tests/sorting/countingsort_test.cc",
+  "file": "/home/ashar/libcormen/tests/sorting/countingsort_test.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/quicksort.dir/tests/sorting/quicksort_test.cc.o -c /home/ashar/libcormen/tests/sorting/quicksort_test.cc",
+  "file": "/home/ashar/libcormen/tests/sorting/quicksort_test.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/heap_sort.dir/tests/sorting/heapsort_test.cc.o -c /home/ashar/libcormen/tests/sorting/heapsort_test.cc",
+  "file": "/home/ashar/libcormen/tests/sorting/heapsort_test.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/insertion_sort_test.dir/tests/foundations/insertion_sort_test.cc.o -c /home/ashar/libcormen/tests/foundations/insertion_sort_test.cc",
+  "file": "/home/ashar/libcormen/tests/foundations/insertion_sort_test.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/permute_by_sort.dir/tests/foundations/permute_by_sort_test.cc.o -c /home/ashar/libcormen/tests/foundations/permute_by_sort_test.cc",
+  "file": "/home/ashar/libcormen/tests/foundations/permute_by_sort_test.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/max_sub_array.dir/tests/foundations/max_sub_array_test.cc.o -c /home/ashar/libcormen/tests/foundations/max_sub_array_test.cc",
+  "file": "/home/ashar/libcormen/tests/foundations/max_sub_array_test.cc"
+},
+{
+  "directory": "/home/ashar/libcormen/build",
+  "command": "/usr/bin/c++   -I/home/ashar/libcormen/.  -g   -o CMakeFiles/strassens.dir/tests/foundations/strassens_algorithm_test.cc.o -c /home/ashar/libcormen/tests/foundations/strassens_algorithm_test.cc",
+  "file": "/home/ashar/libcormen/tests/foundations/strassens_algorithm_test.cc"
+}
+]

@@ -1,0 +1,24 @@
+language: cpp
+distribution: trusty
+os:
+- linux
+
+compiler:
+- gcc
+- clang
+
+
+script:
+- mkdir build && cd build
+- cmake .. 
+- make clean
+- make
+- make CTEST_OUTPUT_ON_FAILURE=1 test
+- bash <(curl -s https://codecov.io/bash)  
+notifications:
+  email: true
+  # webhooks:
+  #   urls:
+  #   on_success: always
+  #   on_failure: always
+  #   on_start: always
